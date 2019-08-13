@@ -200,4 +200,4 @@ Make sure you replace the static history with the real one when you hydrate your
 
 ## Acknowledgements
 
-Special thanks to [Katya Vakulenko](https://katyavakulenko.com/) for creating a project logo.
+Special thanks to [Katya Vakulenko](https://katyavakulenko.com/) for creating the project logo.
